@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#root{
+    margin: 0px;
+    padding: 0px;
+    background-color: black;
+    padding: 200px;
+    height:100vh;
+}
+h1{
+    font-size: 64px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    text-shadow: red 2px 5px;
+    color: white;
+
+}
+p{
+    font-size: 34px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    text-shadow: rgb(0, 26, 255) 2px 5px;
+    color: white;
+    margin-bottom: 25px;
+}
+.btn-bd{
+    text-align: center;
+    padding-top: 60px;
+}
+a{
+    border:2px solid red;
+    padding: 25px 35px;
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: none;
+    color: white;
+    font-weight: bolder;
+    letter-spacing: .5rem;
+    text-transform: uppercase;
+    background-color: rgb(141, 139, 27);
+}
+#output{
+    padding: 12px 40px;
+   
+    display: block;
+    margin: auto;
+}
